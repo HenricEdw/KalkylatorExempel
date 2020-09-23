@@ -1,0 +1,6 @@
+C:\CodeProjects\EnkelKalkylator\bin\Debug\EnkelKalkylator.exe.config
+C:\CodeProjects\EnkelKalkylator\bin\Debug\EnkelKalkylator.exe
+C:\CodeProjects\EnkelKalkylator\bin\Debug\EnkelKalkylator.pdb
+C:\CodeProjects\EnkelKalkylator\obj\Debug\EnkelKalkylator.csprojAssemblyReference.cache
+C:\CodeProjects\EnkelKalkylator\obj\Debug\EnkelKalkylator.exe
+C:\CodeProjects\EnkelKalkylator\obj\Debug\EnkelKalkylator.pdb
